@@ -1,0 +1,11 @@
+{
+    "source_language": "ES",
+    "target_languages": [
+        "EN",
+        "HI"
+    ],
+    "interpolation": "i18n",
+    "input_path": "./assets/¡18n/es.json",
+    "output_path": "./assets/¡18n/$locale.json",
+    "auth_key": "096c5755-590c-4c5b-b79a-bacb7fe6fb4d"
+}

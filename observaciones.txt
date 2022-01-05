@@ -1,0 +1,2 @@
+no actualiza el archivo.json (del lenguage) principal.
+osea este debe llenarse a mano.
