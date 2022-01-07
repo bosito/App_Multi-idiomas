@@ -1,0 +1,10 @@
+*** Observaciones
+- El archivo del idioma pricipal de la aplicacion debe llenarce a mano
+- para este proyecto se necesita de simpleen quien se encarga de la traduncion automatica de los idiomas,
+esta herramienta tiene paquetes y una vercion gratuita.
+
+*** Descarga y Configura simpleen
+https://simpleen.io/documentation/cli-reference
+
+*** Precios y paquetes de simpleen (no se me hace caro xd).
+https://simpleen.io/pricing
